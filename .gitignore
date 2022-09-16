@@ -1,0 +1,12 @@
+Simulations/x64/Debug/*
+Simulations/x64/Release/*
+
+Simulations/Win32/Debug/*
+SimulationsRunner/Debug/*
+SimulatorTester/Win32/Debug/*
+Win32/Debug/*
+Win32/
+.vs/*
+.vs
+x64/Debug/*
+x64/Release/*
